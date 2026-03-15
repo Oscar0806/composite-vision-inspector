@@ -45,5 +45,4 @@ Concept for Airbus Stade automated quality inspection.
  
 ## Author
 **Oscar Vincent Dbritto**
-M.Sc. Digitalization & Automation
-[LinkedIn](https://linkedin.com/in/oscar-dbritto) [Portfolio](https://oscardbritto.framer.website/)
+M.Sc. Digitalization & Automation | [LinkedIn](https://linkedin.com/in/oscar-dbritto) | [Portfolio](https://oscardbritto.framer.website/)
