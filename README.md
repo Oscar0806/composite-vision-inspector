@@ -1,6 +1,6 @@
 # Composite Surface Quality Inspector
  
-![PASS result](screenshot_pass.png)
+screenshot_pass.png
 ![FAIL result](screenshot_fail.png)
  
 ## Overview
