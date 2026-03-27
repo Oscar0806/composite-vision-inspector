@@ -57,7 +57,7 @@ with gr.Blocks(
         "Upload a CFRP composite surface image to detect "
         "defects (scratches, dents, delamination).\n\n"
         "*Concept for Airbus Stade automated quality "
-        "inspection \u2014 Built by Oscar V. Dbritto*"
+        "inspection \u2014 Built by Oscar Vincent Dbritto*"
     )
     
     with gr.Row():
@@ -109,8 +109,8 @@ with gr.Blocks(
         "\U0001f534 Scratch (red) | "
         "\U0001f7e0 Dent/Porosity (orange) | "
         "\U0001f7e1 Delamination (yellow)\n\n"
-        "Built by Oscar V. Dbritto | "
-        "M.Sc. Digitalization & Automation, PFH Stade | "
+        "Built by Oscar Vincent Dbritto | "
+        "M.Sc. Digitalization & Automation | "
         "Concept for Airbus CFRP quality inspection"
     )
  
