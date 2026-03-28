@@ -12,7 +12,7 @@ threshold-based detection and contour classification.
 Concept for Airbus Stade automated quality inspection.
  
 ## Live Demo
-**[Try it here](https://huggingface.co/spaces/Oscar0806/composite-vision-inspector)**
+**[Try it here](https://huggingface.co/spaces/Oscar0806/composite-vision-inspector-2)**
  
 ## How It Works
 1. Image converted to grayscale
